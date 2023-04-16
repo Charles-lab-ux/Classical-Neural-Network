@@ -45,4 +45,4 @@ YOLO（You Only Look Once）：由Joseph Redmon等人提出，是一种单阶段
 
 通过以上几个方面的介绍，读者可以深入了解每个经典神经网络模型的特点、应用、实现、训练和评估方法、性能和优缺点、改进和发展以及实际应用案例等方面，从而对计算机视觉中的经典神经网络模型有更加全面的认识和了解。
 # Lenet
-网址：https://github.com/Charles-lab-ux/Lenet
+学习网址：https://github.com/Charles-lab-ux/Lenet
