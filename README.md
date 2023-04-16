@@ -6,8 +6,8 @@
 
 
 # 计算机视觉中的经典神经网络模型包括：
-专栏主要介绍以下几类神经网络：
-Lenet、持续更新中
+持续更新中
+
 
 
 
@@ -16,4 +16,5 @@ Lenet、持续更新中
 
 
 ## Lenet
+<img width="767" alt="Convoluicns" src="https://user-images.githubusercontent.com/127123332/232314532-5a491035-a25a-49a6-909d-93919d29dbb1.png">
 学习网址：https://github.com/Charles-lab-ux/Lenet
